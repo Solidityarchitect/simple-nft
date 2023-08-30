@@ -12,3 +12,5 @@ YourCollectible Contract
 CODE: https://sepolia.etherscan.io/address/0x83eBa918786caD197284Bc2016A399631b9dBD71#code
 
 DEMO: https://ruddy-acoustics.surge.sh/
+
+🏗 contract deploy on Ethereum Sepolia Testnet 🏗
