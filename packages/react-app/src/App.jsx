@@ -522,7 +522,7 @@ function App() {
   const json = {
     1: {
       description: "It's actually a bison?",
-      external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
+      // external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
       image: "https://austingriffith.com/images/paintings/buffalo.jpg",
       name: "Buffalo",
       attributes: [
